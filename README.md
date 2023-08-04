@@ -17,9 +17,7 @@ const James = {
     }
 };
 ```
-
-
-
----
+I am a Java backend developer. I help companies create great software products, such as websites and web applications, using the Java programming language.
+Always trying to see life with a positive perspective and creating new Opportunities.
 
 ⭐️ From [@James](https://github.com/Hursarior)
