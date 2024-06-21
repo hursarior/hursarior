@@ -13,10 +13,11 @@ const James = {
     askMeAbout: ["web dev"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap"]
+            css: ["bootstrap"],
+            Framework:["Angular"]
         },
         backEnd: ["Java", "Python"],
-        Framework:["Spring Boot"],
+        Framework:["Spring"],
         databases: ["MySql", "oracle"],
     }
 };
