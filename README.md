@@ -18,7 +18,7 @@ const James = {
         },
         backEnd: ["Java", "Python"],
         Framework:["Spring"],
-        databases: ["MySql", "oracle"],
+        databases: ["MySql", "oracle", "SQLite"],
     }
 };
 ```
